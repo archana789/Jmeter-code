@@ -5816,7 +5816,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">/Users/mansibharadwaj/archana-software/apache-jmeter-2.13/bin/archana.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
